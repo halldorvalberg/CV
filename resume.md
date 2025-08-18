@@ -1,7 +1,7 @@
 # Halldór Valberg Aðalbjargarson  
 **Full-Stack Developer**  
 
-📍 Reykjavik, Iceland  
+📍 Kópavogur, Iceland  
 📧 halldor.valberg@hotmail.com  
 📞 (+354) 866-6298  
 🔗 [LinkedIn](https://www.linkedin.com/in/halldor-valberg/)  
@@ -34,27 +34,27 @@ Adaptable and driven developer with experience in full-stack development across 
 ## Experience
 
 ### Full-Stack Developer & Customer Success  
-**CEO HUXUN / HR Monitor** — *May 2024 – Present*  
+**CEO HUXUN / HR Monitor** — *16 months*  
 Development and design of HR Monitor, a SaaS platform for modern HR teams focused on improving workplace culture and engagement.  
 - Developed frontend and backend features using Angular, ASP.NET Core, and PostgreSQL  
 - Part of the customer success team, delivering tailored support for measurement analytics and platform usage
 
 ### Web Developer & Consultant  
-**Freelance** — *August 2023 – May 2024*  
+**Freelance** — *9 months*  
 Designed and developed web solutions for small businesses and individuals.  
 - Worked with WordPress, PHP modules, and JavaScript  
 - Built custom web apps using Next.js, Vue.js, and React Native  
 - Delivered end-to-end solutions including UI/UX and deployment
 
 ### Software Development Intern  
-**KPMG Iceland** — *January 2023 – May 2023*  
+**KPMG Iceland** — *5 months*  
 Final thesis project for B.Sc. degree in collaboration with KPMG.  
 - Developed a full-stack web application with three peers  
 - Managed Scrum ceremonies and project workflows  
 - Contributed to both frontend and backend components
 
 ### Program Officer  
-**Icelandic Boy and Girl Scout Association** — *November 2021 – November 2022*  
+**Icelandic Boy and Girl Scout Association** — *12 months*  
 - Organized national-level events and training sessions  
 - Worked on web management, inventory, and retail  
 - Trained volunteers and managed marketing for national initiatives
@@ -76,7 +76,7 @@ Final thesis project for B.Sc. degree in collaboration with KPMG.
 ## Volunteer Experience
 
 ### Chairperson / Group Leader  
-**Scout Group Svanir** — *February 2019 – September 2024*  
+**Scout Group Svanir** — *5 years and 7 months*  
 - Led operations for a scout group serving over 350 participants annually  
 - Oversaw recruitment and training of staff and volunteers  
 - Managed communications with national organizations and local authorities  
