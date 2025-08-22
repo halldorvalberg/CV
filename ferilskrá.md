@@ -2,12 +2,12 @@
 
 **Full-Stack forritari**
 
-📍 Kópavogur, Iceland
-📧 <halldor.valberg@hotmail.com>
-📞 (+354) 866-6298
-🔗 [LinkedIn](https://www.linkedin.com/in/halldor-valberg/)
-💻 [GitHub](https://github.com/halldorvalberg)
-🌐 [1998.is](https://1998.is)
+📍 Kópavogur, Iceland  
+📧 <halldor.valberg@hotmail.com>  
+📞 (+354) 866-6298  
+🔗 [LinkedIn](https://www.linkedin.com/in/halldor-valberg/)  
+💻 [GitHub](https://github.com/halldorvalberg)  
+🌐 [1998.is](https://1998.is)  
 
 ## Stutt yfirlit
 
