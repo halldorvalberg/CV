@@ -1,93 +1,61 @@
 # Halldór Valberg Aðalbjargarson
 
 **Full-Stack forritari**
-
-📍 Kópavogur, Iceland  
-📧 <halldor.valberg@hotmail.com>  
-📞 (+354) 866-6298  
-🔗 [LinkedIn](https://www.linkedin.com/in/halldor-valberg/)  
-💻 [GitHub](https://github.com/halldorvalberg)  
-🌐 [1998.is](https://1998.is)  
+● Kópavogur, Iceland
+✉ <halldor.valberg@hotmail.com>
+☎ (+354) 866 6298
+→ [LinkedIn](https://www.linkedin.com/in/halldor-valberg/) → [GitHub](https://github.com/halldorvalberg) → [1998.is](https://1998.is)
 
 ## Stutt yfirlit
 
 Forritari með tæplega þriggja ára reynslu af full-stack þróun sem býr yfir metnaði og aðlögunarhæfni. Ég hef unnið að fjölbreyttum verkefnum, meðal annars hjá KPMG og HR Monitor, þar sem ég sinnti bæði bakenda- og framendaþróun og sá til þess að lausnir komust frá hugmyndastigi í að verða fullkláraðar vörur. Ég hef brennandi áhuga á hugbúnaðarþróun og fæ innblástur af því að leysa flókin verkefni og skila vel útfærðum og nothæfum lausnum.
 
-## Lykilhæfni
+### Lykilhæfni
 
-### Tæknileg færni
+**Forritunarmál:** TypeScript, JavaScript, C#, Python, SQL, PHP, C++  
+**Vefþróun:** HTML, CSS, React, Angular, Vue.js, Next.js, React Native  
+**Bakendaþróun:** ASP.NET Core, Django, Node.js  
+**Gagnagrunnar:** PostgreSQL, MS SQL Server  
+**DevOps & skýjaþjónustur:** Docker, Kubernetes, AWS, CircleCI  
+**Hönnunartól:** Figma, Adobe Photoshop, Illustrator  
 
-- **Forritunarmál:** TypeScript, JavaScript, C#, Python, SQL, PHP, C++
-- **Vefþróun:** HTML, CSS, React, Angular, Vue.js, Next.js, React Native
-- **Bakendaþróun:** ASP.NET Core, Django, Node.js
-- **Gagnagrunnar:** PostgreSQL, MS SQL Server
-- **DevOps & Skýjaþjónustur:** Docker, Kubernetes, AWS, CircleCI
-- **Hönnunartól:** Figma, Adobe Photoshop, Illustrator
-
-### Verkefnastjórnun & vinnulag
-
-- Scrum og Agile vinnulag
-- Hönnunarsprettir
-- Sjálfstæð og teymisdrifin vinnubrögð
-- Lausnamiðuð nálgun og frumkvæði
-
-### Tungumálakunnátta
-
-- Íslenska: móðurmál
-- Enska: mjög góð í ræðu og riti
+**Verkefnastjórnun & vinnulag:** Scrum/Agile, hönnunarsprettir, sjálfstæð og teymisdrifin vinnubrögð, lausnamiðuð nálgun  
+**Tungumál:** Íslenska (móðurmál), enska (mjög góð í ræðu og riti)  
 
 ## Starfsreynsla
 
-### Meðstofnandi & forritari  
+### Meðstofnandi & forritari
 
-**Slóði** – [www.slodi.is](https://www.slodi.is) — *september 2025 - *  
-Meðstofnandi slóða sem er opinn hugbúnaður sem að styður við leiðbeinendur innan skátahreyfingarinnar á Íslandi við dagskrárgerð og viðburðaskipulagningu. Ég leiði þróun og hönnun framenda kerfisins sem er skrifaður í Next.js framework-inu ásamt viðmótshönnun og notendaupplifun. Auk þess leiði ég ásamt meðstofnanda vinnuhópa sem að snúa að þróun, prófun og dagskrárgerð verkefnis. Verkefnið er opinn hugbúnaður og leggur áherslu á gagnsæi, samvinnu og samfélagslegt gildi.
-
-- Framendaþróun og hönnun notendaviðmóts í **Next.js**  
-- Leiðsla vinnuhópa um þróun, prófanir og efnisgerð  
+**Slóði** - [www.slodi.is](https://www.slodi.is) - *september 2025 -*
+Meðstofnandi Slóða, opins hugbúnaðar sem styður leiðbeinendur innan skátahreyfingarinnar á Íslandi við dagskrárgerð og viðburðaskipulagningu. Leiði þróun og hönnun framenda í **Next.js** með áherslu á viðmót og notendaupplifun. Stýri einnig vinnuhópum um þróun, prófanir og dagskrárgerð.
 
 ### Full-Stack forritari & þjónustufulltrúi
 
-**CEO HUXUN / HR Monitor** -- *16 mánuðir*
-Þróun og hönnun á HR Monitor, SaaS kerfi sem styður við mannauðsstjórnun með áherslu á að bæta starfsánægju og vinnustaðamenningu.
-
-- Þróa bæði bak- og framenda með Angular, ASP.NET Core og PostgreSQL
-- Hluti af þjónustuveri og veiti sérsniðinn stuðning við viðskiptavini í mælingum og gagnagreiningu
+**CEO HUXUN / HR Monitor** - *16 mánuðir*
+Þróun og hönnun á HR Monitor, SaaS-kerfi sem styður við mannauðsstjórnun með áherslu á að bæta starfsánægju og vinnustaðamenningu. Ég vann bæði að bak- og framendaþróun með **Angular**, ***ASP.NET Core*** og **PostgreSQL** og var jafnframt hluti af þjónustuveri þar sem ég veitti sérsniðinn stuðning viðskiptavinum í tengslum við mælingar og gagnagreiningu.
 
 ### Vefhönnuður og forritari
 
 **Sjálfstætt starfandi** - *9 mánuðir*
-Hannaði og setti upp veflausnir fyrir fyrirtæki og einstaklinga.
-
-- Vann með WordPress, PHP einingar og JavaScript forritun
-- Þróaði sérsniðnar lausnir með Next.js, Vue.js og React Native
-- Sinnti bæði hönnun og tæknilegri innleiðingu lausna
+Hannaði og setti upp veflausnir fyrir fyrirtæki og einstaklinga. Ég vann með WordPress, PHP-einingar og JavaScript forritun og þróaði sérsniðnar lausnir með Next.js, Vue.js og React Native. Auk þess sinnti ég bæði hönnun og tæknilegri innleiðingu lausna.
 
 ### Starfsnemi í hugbúnaðarþróun
 
 **KPMG ehf** - *5 mánuðir*
-Lokaverkefni B.Sc. náms við HR í samstarfi við KPMG.
-
-- Þróaði full-stack veflausn ásamt þremur samnemendum
-- Hafði yfirumsjón með Scrum vinnulagi og verkefnastýringu
-- Sinnti bæði hönnun og forritun fram- og bakenda
+Lokaverkefni B.Sc. náms við HR í samstarfi við KPMG. Ég þróaði full-stack veflausn ásamt þremur samnemendum, hafði yfirumsjón með Scrum vinnulagi og verkefnastýringu og sinnti bæði hönnun og forritun fram- og bakenda.
 
 ### Erindreki
 
 **Bandalag íslenskra skáta** - *12 mánuðir*
-
-- Skipulagði viðburði, fræðslu og dagskrárgerð fyrir skátastarf á landsvísu
-- Starfaði við vefumsjón, birgðahald og í skátabúðinni
-- Þjálfaði starfsfólk og sinnti markaðssetningu á starfsemi bandalagsins
+Skipulagði viðburði, fræðslu og dagskrárgerð fyrir skátastarf á landsvísu. Ég starfaði einnig við vefumsjón, birgðahald og í skátabúðinni, auk þess sem ég þjálfaði starfsfólk og sinnti markaðssetningu á starfsemi bandalagsins.
+<div style="page-break-before: always;"></div>
 
 ## Menntun
 
 ### B.Sc. í tölvunarfræði
 
 **Háskólinn í Reykjavík**, útskrifaðist í júní 2023
-
-- Lokaverkefni unnið í samstarfi við KPMG
-- Verkefnið fól í sér þróun á full-stack veflausn með áherslu á Scrum og verkefnastýringu
+Lokaverkefni unnið í samstarfi við KPMG sem fól í sér þróun á full-stack veflausn með áherslu á Scrum og verkefnastýringu.
 
 ### Stúdentspróf af náttúrufræðibraut
 
@@ -104,11 +72,7 @@ Lokaverkefni B.Sc. náms við HR í samstarfi við KPMG.
 ### Stjórnarformaður / félagsforingi
 
 **Skátafélagið Svanir** - *5 ár og 7 mánuðir*
-
-- Leiddi starfsemi félagsins með ábyrgð á yfir 350 þátttakendum árlega
-- Ráðning og þjálfun starfsfólks og sjálfboðaliða fyrir sumar- og vetrarstarf
-- Sinnti samskiptum við landssamtök, sveitarfélög og önnur félög
-- Ábyrgur fyrir stefnumótun, fjárhagsáætlun og faglegri framvindu félagsins
+Leiddi starfsemi Skátafélagsins Svana með ábyrgð á yfir 350 þátttakendum árlega. Ég sá um ráðningu og þjálfun starfsfólks og sjálfboðaliða fyrir sumar- og vetrarstarf, sinnti samskiptum við landssamtök, sveitarfélög og önnur félög og bar ábyrgð á stefnumótun, fjárhagsáætlun og faglegri framvindu félagsins.
 
 ## Verðlaun og viðurkenningar
 
@@ -126,9 +90,14 @@ Fékk viðurkenninguna fyrir framúrskarandi og ósjálfselskt sjálfboðastarf 
 
 **Gunnhildur Arnardóttir**
 Stofnandi CEO Huxun / HR Monitor
-📧 <gunnhildurarnar@hrmonitor.com>
-📞 (+354) 840 4990
+✉ <gunnhildurarnar@hrmonitor.com>
+☎ (+354) 840 4990
 
-## Skills Summary
+**Signý Kristín Sigurjónsdóttir**
+Meðstofnandi Slóða
+✉ <signy.kristin8@gmail.com>
+☎ (+354) 894 3411
 
-TypeScript, JavaScript, React, Angular, ASP.NET Core, C#, Python, SQL, Docker, Kubernetes, AWS, CircleCI, Git, Figma, Agile, SCRUM, UX Design, PostgreSQL, Vue.js, Next.js, Django, Node.js, HTML, CSS, PHP, C++, WordPress, React Native, Design Sprints, Project Management, Team Leadership, Problem Solving, Communication Skills, Customer Support, Software Development Life Cycle (SDLC), API Development, RESTful Services, Microservices Architecture
+## *Skills Summary*
+
+*TypeScript, JavaScript, React, Angular, ASP.NET Core, C#, Python, SQL, Docker, Kubernetes, AWS, CircleCI, Git, Figma, Agile, SCRUM, UX Design, PostgreSQL, Vue.js, Next.js, Django, Node.js, HTML, CSS, PHP, C++, WordPress, React Native, Design Sprints, Project Management, Team Leadership, Problem Solving, Communication Skills, Customer Support, Software Development Life Cycle (SDLC), API Development, RESTful Services, Microservices Architecture*
