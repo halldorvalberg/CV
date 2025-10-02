@@ -38,6 +38,14 @@ Forritari með tæplega þriggja ára reynslu af full-stack þróun sem býr yfi
 
 ## Starfsreynsla
 
+### Meðstofnandi & forritari  
+
+**Slóði** – [www.slodi.is](https://www.slodi.is) — *september 2025 - *  
+Meðstofnandi slóða sem er opinn hugbúnaður sem að styður við leiðbeinendur innan skátahreyfingarinnar á Íslandi við dagskrárgerð og viðburðaskipulagningu. Ég leiði þróun og hönnun framenda kerfisins sem er skrifaður í Next.js framework-inu ásamt viðmótshönnun og notendaupplifun. Auk þess leiði ég ásamt meðstofnanda vinnuhópa sem að snúa að þróun, prófun og dagskrárgerð verkefnis. Verkefnið er opinn hugbúnaður og leggur áherslu á gagnsæi, samvinnu og samfélagslegt gildi.
+
+- Framendaþróun og hönnun notendaviðmóts í **Next.js**  
+- Leiðsla vinnuhópa um þróun, prófanir og efnisgerð  
+
 ### Full-Stack forritari & þjónustufulltrúi
 
 **CEO HUXUN / HR Monitor** -- *16 mánuðir*
