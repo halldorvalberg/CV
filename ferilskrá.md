@@ -88,11 +88,6 @@ Fékk viðurkenninguna fyrir framúrskarandi og ósjálfselskt sjálfboðastarf 
 
 ## Meðmælendur
 
-**Gunnhildur Arnardóttir**
-Stofnandi CEO Huxun / HR Monitor
-✉ <gunnhildurarnar@hrmonitor.com>
-☎ (+354) 840 4990
-
 **Signý Kristín Sigurjónsdóttir**
 Meðstofnandi Slóða
 ✉ <signy.kristin8@gmail.com>
