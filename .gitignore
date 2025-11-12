@@ -1,0 +1,41 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+yarn.lock
+.pnp*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Build / output
+dist/
+build/
+coverage/
+.cache/
+
+# Logs
+logs/
+*.log
+
+# PDFs and generated documents
+*.pdf
+
+# Fonts (local TTFs) - keep README but ignore actual font binaries
+fonts/*
+!fonts/README.md
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+.nyc_output/
+npm-debug.log*
+pnpm-lock.yaml
