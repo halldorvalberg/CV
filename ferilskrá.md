@@ -1,10 +1,9 @@
 # Halldór Valberg Aðalbjargarson
 
-**Full-stack forritari**
-● Kópavogur, Iceland
-✉ <halldor.valberg@hotmail.com>
-☎ (+354) 866 6298
-→ [LinkedIn](https://www.linkedin.com/in/halldor-valberg/) → [GitHub](https://github.com/halldorvalberg) → [1998.is](https://1998.is)
+**Full-stack Forritari**, Kópavogur, Iceland  
+Tölvpóstur: halldor.valberg@hotmail.com  
+Sími: (+354) 866-6298  
+[LinkedIn](https://www.linkedin.com/in/halldor-valberg/) - [GitHub](https://github.com/halldorvalberg)
 
 ## Stutt yfirlit
 
@@ -14,36 +13,34 @@ Forritari með tæplega þriggja ára reynslu af full-stack þróun sem býr yfi
 
 ### Meðstofnandi & forritari
 
-**Slóði** - [www.slodi.is](https://www.slodi.is) - _september 2025 -_
+**Slóði** - [www.slodi.is](https://www.slodi.is) - _september 2025 -_  
 Meðstofnandi Slóða, opins hugbúnaðar sem styður leiðbeinendur innan skátahreyfingarinnar á Íslandi við dagskrárgerð og viðburðaskipulagningu. Leiði þróun og hönnun framenda í **Next.js** með áherslu á viðmót og notendaupplifun. Stýri einnig vinnuhópum um þróun, prófanir og dagskrárgerð.
 
 ### Full-Stack forritari & þjónustufulltrúi
 
-**CEO HUXUN / HR Monitor** - _16 mánuðir_
+**CEO HUXUN / HR Monitor** - _16 mánuðir_  
 Þróun og hönnun á HR Monitor, SaaS-kerfi sem styður við mannauðsstjórnun með áherslu á að bæta starfsánægju og vinnustaðamenningu. Ég vann bæði að bak- og framendaþróun með **Angular**, **_ASP.NET Core_** og **PostgreSQL** og var jafnframt hluti af þjónustuveri þar sem ég veitti sérsniðinn stuðning viðskiptavinum í tengslum við mælingar og gagnagreiningu.
 
 ### Vefhönnuður og forritari
 
-**Sjálfstætt starfandi** - _9 mánuðir_
+**Sjálfstætt starfandi** - _9 mánuðir_  
 Hannaði og setti upp veflausnir fyrir fyrirtæki og einstaklinga. Ég vann með WordPress, PHP-einingar og JavaScript forritun og þróaði sérsniðnar lausnir með Next.js, Vue.js og React Native. Auk þess sinnti ég bæði hönnun og tæknilegri innleiðingu lausna.
 
 ### Starfsnemi í hugbúnaðarþróun
 
-**KPMG ehf** - _5 mánuðir_
+**KPMG ehf** - _5 mánuðir_  
 Lokaverkefni B.Sc. náms við HR í samstarfi við KPMG. Ég þróaði full-stack veflausn ásamt þremur samnemendum, hafði yfirumsjón með Scrum vinnulagi og verkefnastýringu og sinnti bæði hönnun og forritun fram- og bakenda.
 
 ### Erindreki
 
-**Bandalag íslenskra skáta** - _12 mánuðir_
+**Bandalag íslenskra skáta** - _12 mánuðir_  
 Skipulagði viðburði, fræðslu og dagskrárgerð fyrir skátastarf á landsvísu. Ég starfaði einnig við vefumsjón, birgðahald og í skátabúðinni, auk þess sem ég þjálfaði starfsfólk og sinnti markaðssetningu á starfsemi bandalagsins.
-
-<div style="page-break-before: always;"></div>
 
 ## Menntun
 
 ### B.Sc. í tölvunarfræði
 
-**Háskólinn í Reykjavík**, útskrifaðist í júní 2023
+**Háskólinn í Reykjavík**, útskrifaðist í júní 2023  
 Lokaverkefni unnið í samstarfi við KPMG sem fól í sér þróun á full-stack veflausn með áherslu á Scrum og verkefnastýringu.
 
 ### Stúdentspróf af náttúrufræðibraut
@@ -53,8 +50,6 @@ Lokaverkefni unnið í samstarfi við KPMG sem fól í sér þróun á full-stac
 ### Gilwell leiðtogaþjálfun
 
 **Gilwellskólinn við Úlfljótsvatn** - útskrifaðist í janúar 2017
-
-- Alhliða leiðtogaþjálfun í tengslum við skipulag og teymisvinnu
 
 ## Sjálfboðastarf
 
@@ -70,10 +65,9 @@ Leiddi starfsemi Skátafélagsins Svana með ábyrgð á yfir 350 þátttakendum
 **Bakendaþróun:** ASP.NET Core, Django, Node.js  
 **Gagnagrunnar:** PostgreSQL, MS SQL Server  
 **DevOps & skýjaþjónustur:** Docker, Kubernetes, AWS, CircleCI  
-**Hönnunartól:** Figma, Adobe Photoshop, Illustrator
-
+**Hönnunartól:** Figma, Adobe Photoshop, Illustrator  
 **Verkefnastjórnun & vinnulag:** Scrum/Agile, hönnunarsprettir, sjálfstæð og teymisdrifin vinnubrögð, lausnamiðuð nálgun  
-**Tungumál:** Íslenska (móðurmál), enska (mjög góð í ræðu og riti)
+**Tungumál:** Íslenska (móðurmál), enska (mjög góð)
 
 ## Verðlaun og viðurkenningar
 
@@ -89,12 +83,8 @@ Fékk viðurkenninguna fyrir framúrskarandi og ósjálfselskt sjálfboðastarf 
 
 ## Meðmælendur
 
-**Signý Kristín Sigurjónsdóttir**
-Meðstofnandi Slóða
-✉ <signy.kristin8@gmail.com>
-☎ (+354) 894 3411
+**Signý Kristín Sigurjónsdóttir** - Meðstofnandi, Slóði  
+Tölvupóstur: [signy.kristin8@gmail.com](mailto:signy.kristin8@gmail.com) - Sími: [+354 894 3411](tel:+3548943411)
 
-**Ásgerður Magúsdóttir**
-Frv. Sjálfboðaliðastjóri Skf. Svana
-✉ <asgerdur.magnusdottir@gmail.com>
-☎ (+354) 696 1866
+**Ásgerður Magnúsdóttir** - Frv. Sjálfboðaliðastjóri, Skátafélagið Svanir  
+Tölvupóstur: [asgerdur.magnusdottir@gmail.com](mailto:asgerdur.magnusdottir@gmail.com) - Sími: [+354 696 1866](tel:+3546961866)
