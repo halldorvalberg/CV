@@ -36,7 +36,7 @@ const inPath = args[0];
 const outPath = args[1];
 
 if (!inPath || !outPath) {
-  console.error('Usage: node genpdf.js <input.md | -> <output.pdf> [--txt] [--title=] [--author=] [--subject=] [--keywords=] [--h1=] [--h2=] [--h3=] [--h1d=] [--h2d=] [--h3d=]');
+    console.error('Usage: node genpdf.js <input.md | -> <output.pdf> [--cv | --cl] [--txt] [--title=] [--author=] [--subject=] [--keywords=] [--h1=] [--h2=] [--h3=] [--h1d=] [--h2d=] [--h3d=]');
   process.exit(1);
 }
 
@@ -50,6 +50,36 @@ const meta = {
 
 const wantTxt = args.includes('--txt');
 
+// ---------- Metadata presets: --cv and --cl ----------
+(() => {
+    const cvIdx = args.indexOf('--cv');
+    const clIdx = args.indexOf('--cl');
+    let mode = null;
+    if (cvIdx !== -1 && clIdx !== -1) mode = (clIdx > cvIdx) ? 'cl' : 'cv';
+    else if (cvIdx !== -1) mode = 'cv';
+    else if (clIdx !== -1) mode = 'cl';
+
+    const presets = {
+        cv: {
+            title: 'Halldór Valberg - CV',
+            subject: 'Curriculum Vitae',
+            keywords: 'CV; Curriculum Vitae; Resume; Software Engineer; Full-stack; Iceland'
+        },
+        cl: {
+            title: 'Halldor Valberg - Kynningarbréf',
+            subject: 'Kynningarbréf',
+            keywords: 'Kynningarbréf; Umsókn; Forritari; Full-stack; Ísland; Hugbúnaður; Tölvunarfræði;'
+        }
+    };
+    if (mode) {
+        const p = presets[mode];
+        meta.title = p.title;
+        meta.subject = p.subject;
+        meta.keywords = p.keywords;
+    }
+})();
+
+// Explicit overrides take precedence over presets
 for (const a of args.slice(2)) {
   if (a.startsWith('--title=')) meta.title = a.split('=')[1];
   if (a.startsWith('--author=')) meta.author = a.split('=')[1];

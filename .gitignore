@@ -39,3 +39,6 @@ fonts/*
 .nyc_output/
 npm-debug.log*
 pnpm-lock.yaml
+
+# The dir /kynningarbref and its contents
+/kynningarbref/
