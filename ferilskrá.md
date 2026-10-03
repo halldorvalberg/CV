@@ -88,3 +88,6 @@ Tölvupóstur: [signy.kristin8@gmail.com](mailto:signy.kristin8@gmail.com) - Sí
 
 **Ásgerður Magnúsdóttir** - Frv. Sjálfboðaliðastjóri, Skátafélagið Svanir  
 Tölvupóstur: [asgerdur.magnusdottir@gmail.com](mailto:asgerdur.magnusdottir@gmail.com) - Sími: [+354 696 1866](tel:+3546961866)
+
+**Gunnhildur Arnardóttir** - Stofnandi, CEO Huxun / HR Monitor  
+Tölvupóstur: [gunnhildurarnar@hrmonitor.com](mailto:gunnhildurarnar@hrmonitor.com) - Sími: [+354 840 4990](tel:+3548404990)
